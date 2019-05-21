@@ -12,10 +12,10 @@ $ cd aigroup
 Then open the index.html file and make changes.
 
 ### Screenshots  
-![alt text](screenshots\indexpage1.png)  
+![alt text](screenshots/indexpage1.png)  
 
 
-![alt text](screenshots\indexpage2.png)  
+![alt text](screenshots/indexpage2.png)  
 
 
-![alt text](screenshots\indexpage3.png)  
+![alt text](screenshots/indexpage3.png)  
